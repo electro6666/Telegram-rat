@@ -3,40 +3,63 @@ Telegram based remote administration tool for android,linux using python
 
 
 installation:-
-l
-inux:-
 
-git clone https://github.com/electro6666/Telegram-rat -y
+Linux:-
 
-
-cd Telegram-rat
+    git clone https://github.com/electro6666/Telegram-rat -y
 
 
-chmod +x intall.sh
+    cd Telegram-rat
 
 
-./install.sh
+    chmod +x intall.sh
+
+
+    ./install.sh
 
 
 Android:-
 
-git clone https://github.com/electro6666/Telegram-rat -y
+    git clone https://github.com/electro6666/Telegram-rat -y
 
 
-cd Telegram-rat
+    cd Telegram-rat
 
 
-chmod +x install2.sh
+    chmod +x install2.sh
 
-./install2.sh
+    ./install2.sh
+    
 
+
+
+Bot setup :-
+
+For creating telegram bot https://t.me/BotFather
+
+    /newbot
+
+For Api Token 
+
+    /token
+
+For chat id https://t.me/userinfobot
+
+     /start 
+
+client setup:-
+
+     nano client.py
+     
+
+now add the token and  chat id 
 
 
 
 usage:-
 
 
-python3 client.py
+     python3 client.py
 
 commands:-
 
@@ -60,23 +83,7 @@ commands:-
         
 
 
-and basically any commands you want 
-
-Bot setup:-
-
-for creating telegram bot https://t.me/BotFather
-
-/newbot
-
-for Api Token /token
-
-for chat id https://t.me/userinfobot
-
-/start 
-
-
-
-
+       and basically any commands you want 
 
 
         
