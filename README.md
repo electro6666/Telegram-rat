@@ -3,7 +3,9 @@ Telegram based remote administration tool for android,linux using python
 
 
 installation:-
-linux:-
+l
+inux:-
+
 git clone https://github.com/electro6666/Telegram-rat -y
 
 
@@ -17,6 +19,7 @@ chmod +x intall.sh
 
 
 Android:-
+
 git clone https://github.com/electro6666/Telegram-rat -y
 
 
